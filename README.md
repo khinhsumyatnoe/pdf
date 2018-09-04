@@ -44,37 +44,36 @@ Daw Ank Phyu Win
 
 
 CONTENTS
-Page Number
-Abstract    											4
+									Page Number
+Abstract    									4
 Acknowledgement									5
-Declaration 										6
-List of Figures										7
+Declaration 									6
+List of Figures									7
 CHAPTER 1 INTRODUCTION
 1.1	Introduction								8
 1.2	Background  
-1.2.1	What is Git?							9
-1.2.2	What is Github?							9
-1.2.3	What is Github page?						11
-1.2.4	What is Firebase?						13
+1.2.1	What is Git?								9
+1.2.2	What is Github?								9
+1.2.3	What is Github page?							11
+1.2.4	What is Firebase?							13
 1.3	Objective of the project 						17
 CHAPTER 2 PROJECT DEVELOPMENT
 	2.1     Design									
-		2.1.1     Flow Chart Diagram						18
-		2.1.2     Use Case Diagram						19
-		2.1.3     Description							20
-		2.1.4     Implementation							21
+		2.1.1     Flow Chart Diagram					18
+		2.1.2     Use Case Diagram					19
+		2.1.3     Description						20
+		2.1.4     Implementation					21
 CHAPTER 3 EVALUATION AND CONCLUSION
-	3.1      Conclusion									27
-	3.2      REFERENCES								27
+	3.1      Conclusion							27
+	3.2      REFERENCES							27
 
 
 
 Abstract
-
-	Apps in Myanmar are applications which were developed in Burmese Developer
-	Users can easily download in this website
-	FrontEnd Dev and UI  Mockups using Material Design ( HTML, CSS, & Javascript  )
-	These applications were also developed with firebase hosting and database.
+	Apps in Myanmar are applications which were developed in Burmese Developer
+	Users can easily download in this website
+	FrontEnd Dev and UI  Mockups using Material Design ( HTML, CSS, & Javascript  )
+	These applications were also developed with firebase hosting and database.
 
 
 
@@ -109,10 +108,9 @@ We also great full to all out teachers for Computer University ( Mandalay ) who 
 
 
 Declaration
-
-	The information contained in these applications in Myanmar are true, correct and complete.
-	 We understand that any misrepresentation may invalidate my application arrangements. 
-	We noted that all appointments are project details.
+	The information contained in these applications in Myanmar are true, correct and complete.
+	We understand that any misrepresentation may invalidate my application arrangements. 
+	We noted that all appointments are project details.
 
 Project Details
 Project Title	Apps in Myanmar
