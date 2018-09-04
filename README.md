@@ -1,10 +1,10 @@
 # pdf
 This is word file and power point.
 
-A PROJECT REPORT ON
-“APPs in Myanmar”
-For
-Company Name
+				A PROJECT REPORT ON
+			        “APPs in Myanmar”
+					For
+				   Company Name
 GEO MANDALAR INVESTMENT & TECHNOLOGY Co.ltd
 Director
 U Ravi Chhabra
